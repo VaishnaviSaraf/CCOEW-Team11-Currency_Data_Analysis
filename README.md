@@ -43,3 +43,15 @@ Team 11
 - Plotly for graphical representation
 
 The editor used is VS-Code.
+
+## Web Application
+![01](https://github.com/VaishnaviSaraf/CCOEW-Team11-Currency_Data_Analysis/assets/100290198/339922d6-c4ca-4f14-ad46-722ca1d30887)
+
+![002](https://github.com/VaishnaviSaraf/CCOEW-Team11-Currency_Data_Analysis/assets/100290198/f93e982d-d853-41ea-b18c-fee411bc1a15)
+
+
+![03](https://github.com/VaishnaviSaraf/CCOEW-Team11-Currency_Data_Analysis/assets/100290198/422b27b4-bd29-4926-9ae2-6332d06584c1)
+![05](https://github.com/VaishnaviSaraf/CCOEW-Team11-Currency_Data_Analysis/assets/100290198/02e68e60-2cad-4cf9-bbfa-5c7588735e5e)
+
+![06](https://github.com/VaishnaviSaraf/CCOEW-Team11-Currency_Data_Analysis/assets/100290198/a01dba8c-05c7-4e06-a169-b2cc3253dfbd)
+
