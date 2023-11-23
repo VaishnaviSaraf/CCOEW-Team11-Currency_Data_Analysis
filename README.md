@@ -18,11 +18,10 @@ Team 11
 
 - Users will select currency 1 as a base currency and currency 2 as the converted currency. 
 
-- Analyze the forex rate between two countries over a period of time - weekly, monthly,yearly and quarterly. Given information is displayed using a graph. Display peak value of currency and its lowest value.
+- Analyze the Currency rate between two countries over a period of time - weekly, monthly,yearly and quarterly. Given information is displayed using a graph. Display peak value of currency and its lowest value.
 
-- Forex Calculator - the user can directly convert a given amount in base currency to its equivalent.
+- Currency Converter - the user can directly convert a given amount in base currency to its equivalent.
 
-- A screen to display all currencies along with the short code, description, and current exchange rate.
 
 ## Additional Functionalities implemented  
 
@@ -30,7 +29,7 @@ Team 11
 
 - Provide a Service/Component to convert value of currency into another currency 
 
-- UI screen to display all currencies along with the short code description, and current exchange rate.
+- Predicting Currency rate
 
 ## Technologies used 
 
@@ -41,6 +40,7 @@ Team 11
 - Matplotlib for data visualization
 - Scikit-learn, or sklearn for data modeling 
 - Plotly for graphical representation
+- Prophet Forcasting Model for predicting future values
 
 The editor used is VS-Code.
 
